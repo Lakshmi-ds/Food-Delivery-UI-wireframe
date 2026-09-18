@@ -1,0 +1,6 @@
+{
+  "name": "Food Delivery Wireframe",
+  "description": "An interactive wireframe and high-fidelity prototype for a food delivery homepage featuring address selection, navbar search, offers carousel, order-by-dish layout, and restaurant suggestions.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
