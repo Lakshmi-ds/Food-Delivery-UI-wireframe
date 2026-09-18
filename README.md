@@ -1,8 +1,10 @@
-# Run and deploy your AI Studio app
+# Run the food delivery app
 
-This contains everything you need to run your app locally.
+This app is created using the Google AI Studio.
 
-View your app in AI Studio: https://ai.studio/apps/c8afd96c-2351-4bf6-b465-611cb81b4a9d
+This contains everything needed to run the app locally.
+
+View the app in AI Studio: https://ai.studio/apps/c8afd96c-2351-4bf6-b465-611cb81b4a9d
 
 ## Run Locally
 
